@@ -1,0 +1,76 @@
+SHORTCUTS 1.1 - Intro to video for Computer Shortcuts
+SHORTCUTS 1.2 - Importance of shortcuts
+SHORTCUTS 1.3 - Saving
+SHORTCUTS 1.4 - Copy, Cut & Paste
+SHORTCUTS 1.5 - Undo & Redo
+SHORTCUTS 1.6 - Highlight All & Find
+SHORTCUTS 1.7 - Indent & Un-indent
+SHORTCUTS 1.8 - Comments
+SHORTCUTS 1.9 - Reload Browser
+SHORTCUTS 1.10 - Outro to video for shortcuts
+
+
+
+SHORTCUTS 1.1 - Intro to video for Computer Shortcuts
+Chris from Codify Academy here.
+In this video we're going to look at some important shortcuts and when to use them, I recommend jotting them down and keeping them in plain view when your coding.
+
+
+SHORTCUTS 1.2 - Importance of shortcuts
+In programming knowing shortcuts can end up saving you a lot of time. The more you know the faster you can develop.
+Remember take it slow don't try to learn them all at once, try to understand when they can be useful and slowly build up a habit.
+
+
+
+SHORTCUTS 1.3 - Saving
+The first shortcut is saving a file, By far one of the most useful.  Use Control or Command and S at the same time to save a file. You're normally going to use this one in your text editor. When you have multiple pages open you need to make sure you save each one when a change is made.
+
+You should try to get into the habit of saving the file each time you finish a line of code,
+
+you should hit control or command s so much that you save in a browser, thats when you know that you got this one down.
+
+
+
+SHORTCUTS 1.4 - Copy, Cut & Paste
+Next we look at a trio - Copy, Cut and Paste.
+Copy is used when you want to make a copy of something, not limited to a text editor, you can pretty much copy anything on a computer! Select what you want and use Control or Command C to copy it.
+
+Cut is used when want to move something from one place to another, using control or command + x on something selected will remove it from its current place and then you can use paste to put it in a new location. - This can be useful to move text, tags or files around.
+
+Paste is used when you want to paste something, you've probably used this one before but just in case you have to have something copied to your computers "clipboard", then you can use control or command v to paste somewhere. You typically copy or cut something before you paste it.
+
+
+
+SHORTCUTS 1.5 - Undo & Redo
+Next up Undo and Redo - These will save your life on many occasions
+Undo is used to well to undo things. You can use Control or Command Z, this is undo the last thing you did, in a text editor you can use it over and over agin to keep undoing. If you made a mistake or want to go back a few lines of code just use this shortcut.
+
+Redo is the opposite, so if you undid something you can redo it by using Control or Command Y. You can use it as many times as you undid. This shortcut is not limited to a text editor you can use it in many other programs.
+
+
+
+SHORTCUTS 1.6 - Highlight All & Find
+On occasion you need to find some text, you can use control or command f to bring up a search window, you can then type in what ever you're looking for. This shortcut can be used in browsers, text editors and other programs.
+
+The next one, highlight all one normally works in unison with copying. You can use control or command a to highlight all text in browsers and text editors, you'd usually copy it or delete it from there.
+
+
+
+SHORTCUTS 1.7 - Indent & Un-indent
+indent and un-indent are very important for keeping our coding looking nice and readable for us humans. In reality computers don't care about spaces so this one is specifically for humans, but you need to do it. When you create code sometimes we need to indent and sometimes we need to un-indent, If you want to indent 1 line just go to the beginning of that line and press tab. If you want to un-indent a line, go to the beginning and use the shortcut shift+tab.
+Sometimes you need to indent or un-indent multiple lines in which case you can highlight the lines you want and use the same shortcuts tab to indent or shift+tab to un-indent
+
+
+
+SHORTCUTS 1.8 - Comments
+Comments will be very useful for your future self and others to be able to read and understand your code easier, we will usually use this in a text editor. When you use control or command forward slash, the same key as the question mark, whatever line your on will become a commented line of code. you can uncomment a commented line of code with the same shortcut control or command forward slash.  For a multiline comment just highlight the lines you want and use the same shortcut to comment or uncomment that code.
+
+
+
+SHORTCUTS 1.9 - Reload Browser
+This is a huge time saver so i'm ending on this one. Reloading your browser, normally you have to click on the reload button, but instead just practice using control or command r when in a browser to refresh the page.
+
+
+
+SHORTCUTS 1.10 - Outro to video for shortcuts
+Thats it for now, once you are using these shortcuts on a regular basis, there are tons of other ones out there that can help you, so in the future check out more shortcuts for operating systems, text editors, browsers and anything else your interested in.
